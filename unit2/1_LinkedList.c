@@ -15,7 +15,7 @@
 
 // Define the structure of Node
 typedef struct Node {
-  
+  // The typedef is a keyword that is used to provide existing data types with a new name.
     // Data field. Can add more data according to our need
     int data;
 
